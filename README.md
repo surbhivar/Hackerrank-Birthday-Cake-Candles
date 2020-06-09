@@ -1,9 +1,9 @@
 # Hackerrank-Birthday-Cake-Candles
-Input Format
+Input Format:
 The first line contains a single integer,n,denoting the number of candles on the cake. 
 The second line contains space-separated integers, where each integer describes the height of candle .
 
-Output Format
+Output Format:
 Return the number of candles that can be blown out on a new line.
 
 
