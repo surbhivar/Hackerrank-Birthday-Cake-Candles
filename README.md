@@ -1,4 +1,5 @@
 # Hackerrank-Birthday-Cake-Candles
+Problem Statement link : https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 Input Format:
 The first line contains a single integer,n,denoting the number of candles on the cake. 
 The second line contains space-separated integers, where each integer describes the height of candle .
